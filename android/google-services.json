@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81559735905",
+    "project_id": "smarteyes0-7d974",
+    "storage_bucket": "smarteyes0-7d974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81559735905:android:2cb5c77a3b4fe2aa486420",
+        "android_client_info": {
+          "package_name": "com.smarteyes.smarteyes0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtUvciBBzh1_JmIWb-38PxIQ75gIC7Tro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
